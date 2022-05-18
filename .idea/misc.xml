@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable-v24/shape_button_rounded.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable-v24/white_border_shape_button_rounded.xml" value="0.3395" />
+        <entry key="app/src/main/res/drawable/dialog_rounded_shape.xml" value="0.3395" />
+        <entry key="app/src/main/res/drawable/ic_add_member.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/ic_add_white.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_back_black.xml" value="0.3395" />
+        <entry key="app/src/main/res/drawable/ic_back_white.xml" value="0.3395" />
+        <entry key="app/src/main/res/drawable/ic_baseline_access_time.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.4705" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add.xml" value="0.276" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.4705" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_white_24.xml" value="0.4705" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_black.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_white.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_done.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_done_white.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/ic_baseline_edit.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_flag.xml" value="0.4705" />
+        <entry key="app/src/main/res/drawable/ic_baseline_label.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_label_24.xml" value="0.1755" />
+        <entry key="app/src/main/res/drawable/ic_baseline_notes.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_outline.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/ic_board_place_holder.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_check_blue.xml" value="0.3395" />
+        <entry key="app/src/main/res/drawable/ic_check_done.xml" value="0.3395" />
+        <entry key="app/src/main/res/drawable/ic_check_red.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_delete_white.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_nav_sign_out.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/ic_nav_user.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_navigation_manu.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_user_place_holder.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_base.xml" value="0.21302083333333333" />
+        <entry key="app/src/main/res/layout/activity_card_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_create_board.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_members.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_my_profile.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/activity_task_list.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.4329710144927536" />
+        <entry key="app/src/main/res/layout/dialog_list.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/dialog_serach_member.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_board.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/item_card_selected_member.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_label_color.xml" value="0.4329710144927536" />
+        <entry key="app/src/main/res/layout/item_member.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_task.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/main_content.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.275" />
+        <entry key="app/src/main/res/layout/progress_dialog.xml" value="0.375" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu_add_card.xml" value="0.1828125" />
+        <entry key="app/src/main/res/menu/menu_add_list.xml" value="0.16197916666666667" />
+        <entry key="app/src/main/res/menu/menu_add_member.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu_delete_card.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu_members.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3245" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

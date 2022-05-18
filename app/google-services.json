@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428253040740",
+    "project_id": "plannedly",
+    "storage_bucket": "plannedly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428253040740:android:741a0f4d3f6c51c0848f71",
+        "android_client_info": {
+          "package_name": "com.plannedly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428253040740-ilft0hdocfd62h1ffkpcsi0ic1pu6hr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmaDHB_QzLQGfGybWGQV5bUqL3PZB-zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428253040740-ilft0hdocfd62h1ffkpcsi0ic1pu6hr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
